@@ -1,0 +1,8 @@
+ls
+/bin/ls
+ls -l
+pwd
+ls -l; touch file
+ls -l; cat file; grep foo file
+quit
+
