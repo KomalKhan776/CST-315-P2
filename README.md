@@ -57,11 +57,6 @@ quit
 
 
 
-# IMRPOVED LINUX SHELL
-
-# CST-315-P3
-# new_lopeShell
-# new_batch.txt
 # Improved Linux Command Line Interpreter
 
 A custom shell lopeShell built in C++ that runs Linux commands in both interactive and batch mode. Supports concurrent command execution using `fork()`, `execvp()`, and `waitpid()`.
