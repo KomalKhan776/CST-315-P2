@@ -1,6 +1,5 @@
 # CST-315-P2
-# lopeShell
-# Linux Command Line Interpreter
+# 1.0 Linux Command Line Interpreter
 
 A custom shell lopeShell built in C++ that runs Linux commands in both interactive and batch mode. Supports concurrent command execution using `fork()`, `execvp()`, and `waitpid()`.
 
@@ -57,7 +56,7 @@ quit
 
 
 
-# Improved Linux Command Line Interpreter
+# 2.0 Improved Linux Command Line Interpreter
 
 A custom shell lopeShell built in C++ that runs Linux commands in both interactive and batch mode. Supports concurrent command execution using `fork()`, `execvp()`, and `waitpid()`.
 
