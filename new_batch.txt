@@ -1,0 +1,13 @@
+help
+pwd
+ls
+date
+sleep 5 &
+/bin/ls
+ls -l
+ls -l; touch file
+ls -l; cat file; grep foo file
+echo done
+cd . .
+quit
+
